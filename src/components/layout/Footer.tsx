@@ -102,8 +102,9 @@ export default function Footer() {
               <li className="flex gap-3">
                 <MapPin className="w-5 h-5 text-primary flex-shrink-0 mt-0.5" />
                 <span className="text-background/70 text-sm">
-                  123 Business Avenue, Suite 500<br />
-                  New York, NY 10001
+Plot No. 10, F-1, 15 Floor, 1st Street
+Vinayaga Nagar,
+Thoraipakkam, Chennai-600097
                 </span>
               </li>
               <li className="flex gap-3">
@@ -112,7 +113,7 @@ export default function Footer() {
                   href="tel:+1234567890"
                   className="text-background/70 hover:text-primary transition-colors text-sm"
                 >
-                  +1 (234) 567-890
+                  +919962245383
                 </a>
               </li>
               <li className="flex gap-3">

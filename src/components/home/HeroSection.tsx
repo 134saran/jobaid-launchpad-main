@@ -34,7 +34,7 @@ export default function HeroSection() {
             </div>
 
             <h4 className="heading-1">
-              We offer<span className="text-gradient">Placement Services,</span>{' '}{' '}
+              We offer<span className="text-gradient"> Placement Services,</span>{' '}{' '}
               <span className="text-gradient">Job Consultancy,</span>{' '}
               comprehensive <span className="text-gradient">Interview Support.</span>{' '}
             </h4>

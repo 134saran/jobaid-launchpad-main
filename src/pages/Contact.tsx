@@ -19,12 +19,12 @@ const contactInfo = [
   {
     icon: MapPin,
     title: 'Visit Us',
-    lines: ['123 Business Avenue, Suite 500', 'New York, NY 10001'],
+    lines: ['Plot No. 10, F-1, 15 Floor, 1st Street', 'Vinayaga Nagar', 'Thoraipakkam, Chennai-600097'],
   },
   {
     icon: Phone,
     title: 'Call Us',
-    lines: ['+1 (234) 567-890', '+1 (234) 567-891'],
+    lines: ['+919962245383'],
   },
   {
     icon: Mail,
